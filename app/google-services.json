@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "786207322658",
+    "firebase_url": "https://blood-info-ab5ad.firebaseio.com",
+    "project_id": "blood-info-ab5ad",
+    "storage_bucket": "blood-info-ab5ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786207322658:android:afd71177f6b1a5a0",
+        "android_client_info": {
+          "package_name": "com.example.abc.bloodinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786207322658-or5hc32405ql4uv86d13p3q1qb60u7h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDlm55BCt98CqayATfy3i8XAtaQcZTCZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
